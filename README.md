@@ -10,8 +10,3 @@ This Python app checks password strength and verifies if it's been exposed in kn
 - Uses regex and SHA-1 hashing
 - GUI built with Tkinter
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-python main.py
